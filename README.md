@@ -35,4 +35,4 @@ at i=1/2d
 T(i,(j+1))=T(i,j)+2α(del(θ))/((del(x))^2)(T((i-1),j)-T(i,j))
 
 
-I DO NOT CLAIM AnY CREDIT TO THE DERIVATION OF THE ABOVE.
+I DO NOT CLAIM ANY CREDIT TO THE DERIVATION OF THE ABOVE.
